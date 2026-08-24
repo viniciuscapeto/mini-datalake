@@ -1,0 +1,26 @@
+# Ambiente virtual Python
+venv/
+
+# Credenciais e configurações sensíveis
+.env
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Dados locais gerados (não precisam ir pro repositório)
+data/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Windows
+Thumbs.db
+desktop.ini
